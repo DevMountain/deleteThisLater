@@ -27,5 +27,9 @@ class ViewController: UIViewController {
   func heMustHaveFriends(){
     print("He must have friends")
   }
+  
+  func wanaKnowHowIGotTheseScars(){
+    print("My father was a drinker")
+  }
 }
 
