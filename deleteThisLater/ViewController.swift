@@ -12,11 +12,16 @@ class ViewController: UIViewController {
 
   override func viewDidLoad() {
     super.viewDidLoad()
-    // Do any additional setup after loading the view, typically from a nib.
+    iMBatman()
+    wheresRachel()
   }
 
   func iMBatman(){
     print("Where are the drugs")
+  }
+  
+  func wheresRachel(){
+    print("Where's Rachel")
   }
 }
 
