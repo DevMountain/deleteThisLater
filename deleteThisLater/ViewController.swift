@@ -23,5 +23,9 @@ class ViewController: UIViewController {
   func wheresRachel(){
     print("Where's Rachel")
   }
+  
+  func heMustHaveFriends(){
+    print("He must have friends")
+  }
 }
 
